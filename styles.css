@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+	color: #000;
+}
+
+h1{
+    font-weight: 100;
+  font-size: 40px;
+}
+
+#timer{
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+#timer > div{
+    padding: 14px;
+    border: 1px solid #D6D7DA;
+    border-radius: 3px;    
+    width: 70px;
+    margin: 5px;
+    display: inline-block;
+}
+
+
+.text{
+    font-size: 13px;
+    color: #9E9E9E;
+    font-weight: bold;
+}
